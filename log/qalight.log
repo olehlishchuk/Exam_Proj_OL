@@ -1,0 +1,559 @@
+2018-12-12 17:21:10  INFO [pages.LoginPage] : Login page was opened
+2018-12-12 17:21:15  ERROR [libs.ActionsWithOurElements] : Cannot work with elementorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"name","selector":"E-mail"}
+  (Session info: chrome=70.0.3538.110)
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'olehs-MacBook-Air.local', ip: 'fe80:0:0:0:1479:40c5:a6d6:f969%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/_8/9f1vs9p97sl...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:50478}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}
+Session ID: 6930fb43a49777bd7cde2075ccba5cf6
+*** Element info: {Using=name, value=E-mail}
+2018-12-12 17:57:14  INFO [pages.LoginPage] : Login page was opened
+2018-12-12 17:57:15  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-12-12 17:57:15  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-12-12 17:57:20  ERROR [pages.LoginPage] : Cannot find such a button
+2018-12-12 19:16:21  INFO [pages.LoginPage] : Login page was opened
+2018-12-12 19:16:21  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-12-12 19:16:22  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-12-12 19:16:22  INFO [pages.LoginPage] : was clicked
+2018-12-12 19:16:51  INFO [pages.LoginPage] : Login page was opened
+2018-12-12 19:16:52  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-12-12 19:16:52  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-12-12 19:16:52  INFO [pages.LoginPage] : was clicked
+2018-13-12 11:28:45  INFO [pages.LoginPage] : Login page was opened
+2018-13-12 11:28:50  ERROR [libs.ActionsWithOurElements] : Cannot work with elementorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"site-login-modal-email"}
+  (Session info: chrome=70.0.3538.110)
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'olehs-MacBook-Air.local', ip: 'fe80:0:0:0:1479:40c5:a6d6:f969%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/_8/9f1vs9p97sl...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:53486}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}
+Session ID: 3873f1a6185cc27d88e36bc66078b08b
+*** Element info: {Using=id, value=site-login-modal-email}
+2018-13-12 18:24:55  INFO [pages.LoginPage] : Login page was opened
+2018-13-12 18:24:55  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-13-12 18:24:57  INFO [libs.ActionsWithOurElements] : Oleg1987was inputted into input
+2018-13-12 18:24:59  INFO [pages.LoginPage] : was clicked
+2018-13-12 20:47:50  INFO [pages.LoginPage] : Login page was opened
+2018-13-12 20:47:50  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-13-12 20:47:51  INFO [libs.ActionsWithOurElements] : Oleg1987was inputted into input
+2018-13-12 20:47:52  INFO [pages.LoginPage] : was clicked
+2018-13-12 20:48:01  INFO [pages.LoginPage] : Login page was opened
+2018-13-12 20:48:01  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-13-12 20:48:01  INFO [libs.ActionsWithOurElements] : Oleg1987was inputted into input
+2018-13-12 20:48:03  INFO [pages.LoginPage] : was clicked
+2018-13-12 22:19:36  INFO [pages.LoginPage] : Login page was opened
+2018-13-12 22:19:37  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-13-12 22:19:37  INFO [libs.ActionsWithOurElements] : Oleg1987was inputted into input
+2018-13-12 22:19:43  INFO [pages.LoginPage] : was clicked
+2018-13-12 22:25:02  INFO [pages.LoginPage] : Login page was opened
+2018-13-12 22:25:03  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-13-12 22:25:03  INFO [libs.ActionsWithOurElements] : Oleg1987was inputted into input
+2018-13-12 22:25:05  INFO [pages.LoginPage] : was clicked
+2018-13-12 22:25:13  INFO [pages.LoginPage] : Login page was opened
+2018-13-12 22:25:14  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-13-12 22:25:14  INFO [libs.ActionsWithOurElements] : Oleg1987was inputted into input
+2018-13-12 22:25:17  INFO [pages.LoginPage] : was clicked
+2018-16-12 15:02:25  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 15:02:25  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 15:02:25  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 15:02:26  INFO [pages.LoginPage] : was clicked
+2018-16-12 15:02:34  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 15:02:34  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 15:02:34  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 15:02:34  INFO [pages.LoginPage] : was clicked
+2018-16-12 15:07:00  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 15:07:00  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 15:07:00  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 15:07:00  INFO [pages.LoginPage] : was clicked
+2018-16-12 15:07:03  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 15:07:03  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 15:07:03  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 15:07:03  INFO [pages.LoginPage] : was clicked
+2018-16-12 15:07:39  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 15:07:40  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 15:07:40  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 15:07:40  INFO [pages.LoginPage] : was clicked
+2018-16-12 15:07:48  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 15:07:48  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 15:07:49  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 15:07:49  INFO [pages.LoginPage] : was clicked
+2018-16-12 15:42:35  ERROR [libs.ActionsWithOurElements] : Cannot work with elementorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: /html/body/header/div/div[1]/div/div[2]/a[4]' (tried for 5 second(s) with 500 milliseconds interval)
+2018-16-12 17:04:08  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 17:04:08  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 17:04:08  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 17:04:08  INFO [pages.LoginPage] : was clicked
+2018-16-12 17:21:19  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 17:21:19  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 17:21:19  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 17:21:19  INFO [pages.LoginPage] : was clicked
+2018-16-12 17:21:28  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 17:21:28  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 17:21:28  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 17:21:28  INFO [pages.LoginPage] : was clicked
+2018-16-12 17:24:36  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 17:24:36  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 17:24:37  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 17:24:37  INFO [pages.LoginPage] : was clicked
+2018-16-12 17:26:22  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 17:26:22  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 17:26:22  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 17:26:22  INFO [pages.LoginPage] : was clicked
+2018-16-12 17:26:38  ERROR [libs.ActionsWithOurElements] : Cannot work with elementorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: /html/body/div[3]/div[1]/div[1]/nav/section[1]/ul/li[1]/a' (tried for 5 second(s) with 500 milliseconds interval)
+2018-16-12 17:31:05  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 17:31:06  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 17:31:06  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 17:31:06  INFO [pages.LoginPage] : was clicked
+2018-16-12 17:31:21  ERROR [libs.ActionsWithOurElements] : Cannot work with elementorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: /html/body/div[3]/div[1]/div[1]/div/span' (tried for 5 second(s) with 500 milliseconds interval)
+2018-16-12 17:48:15  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 17:48:16  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 17:48:16  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 17:48:16  ERROR [pages.LoginPage] : Cannot find such a button
+2018-16-12 17:48:31  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 17:48:31  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 17:48:31  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 17:48:31  ERROR [pages.LoginPage] : Cannot find such a button
+2018-16-12 17:48:34  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 17:48:35  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 17:48:35  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 17:48:35  ERROR [pages.LoginPage] : Cannot find such a button
+2018-16-12 17:50:44  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 17:50:45  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 17:50:45  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 17:50:46  INFO [pages.LoginPage] : was clicked
+2018-16-12 17:50:49  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 17:50:49  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 17:50:49  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 17:50:50  INFO [pages.LoginPage] : was clicked
+2018-16-12 17:54:18  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 17:54:18  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 17:54:18  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 17:54:19  INFO [pages.LoginPage] : was clicked
+2018-16-12 17:54:49  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 17:54:49  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 17:54:50  INFO [libs.ActionsWithOurElements] : QALight2015was inputted into input
+2018-16-12 17:54:50  INFO [pages.LoginPage] : was clicked
+2018-16-12 17:55:52  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 17:55:52  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 17:55:53  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 17:55:53  INFO [pages.LoginPage] : was clicked
+2018-16-12 17:56:48  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 17:56:48  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 17:56:48  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 17:56:50  INFO [pages.LoginPage] : was clicked
+2018-16-12 17:56:51  INFO [libs.ActionsWithOurElements] : Element was clicked
+2018-16-12 17:57:01  ERROR [libs.ActionsWithOurElements] : Cannot work with elementorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: /html/body/div[3]/div[1]/div[1]/nav/section[1]/ul/li[1]/a' (tried for 5 second(s) with 500 milliseconds interval)
+2018-16-12 18:07:35  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 18:07:36  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 18:07:36  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 18:07:37  INFO [pages.LoginPage] : was clicked
+2018-16-12 18:07:39  INFO [libs.ActionsWithOurElements] : Element was clicked
+2018-16-12 18:07:49  ERROR [libs.ActionsWithOurElements] : Cannot work with elementorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: /html/body/div[3]/div[1]/div[1]/nav/section[1]/ul/li[1]/a' (tried for 5 second(s) with 500 milliseconds interval)
+2018-16-12 18:10:39  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 18:10:40  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 18:10:40  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 18:10:41  INFO [pages.LoginPage] : was clicked
+2018-16-12 18:10:41  INFO [libs.ActionsWithOurElements] : Element was clicked
+2018-16-12 18:11:25  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 18:11:25  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 18:11:25  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 18:11:26  INFO [pages.LoginPage] : was clicked
+2018-16-12 18:11:27  INFO [libs.ActionsWithOurElements] : Element was clicked
+2018-16-12 18:14:40  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 18:14:41  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 18:14:41  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 18:14:42  INFO [pages.LoginPage] : was clicked
+2018-16-12 18:14:42  INFO [libs.ActionsWithOurElements] : Element was clicked
+2018-16-12 18:24:26  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 18:24:27  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 18:24:27  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 18:24:28  INFO [pages.LoginPage] : was clicked
+2018-16-12 18:24:28  INFO [libs.ActionsWithOurElements] : Element was clicked
+2018-16-12 18:25:39  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 18:25:39  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 18:25:39  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 18:25:40  INFO [pages.LoginPage] : was clicked
+2018-16-12 18:25:41  INFO [libs.ActionsWithOurElements] : Element was clicked
+2018-16-12 18:28:35  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 18:28:36  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 18:28:36  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 18:28:37  INFO [pages.LoginPage] : was clicked
+2018-16-12 18:56:05  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 18:56:05  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 18:56:05  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 18:56:06  INFO [pages.LoginPage] : was clicked
+2018-16-12 18:56:07  INFO [libs.ActionsWithOurElements] : Element was clicked
+2018-16-12 19:01:22  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 19:01:22  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 19:01:23  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 19:01:23  INFO [pages.LoginPage] : was clicked
+2018-16-12 19:01:24  INFO [libs.ActionsWithOurElements] : Element was clicked
+2018-16-12 19:03:43  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 19:03:44  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 19:03:44  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 19:03:45  INFO [pages.LoginPage] : was clicked
+2018-16-12 19:03:45  INFO [libs.ActionsWithOurElements] : Element was clicked
+2018-16-12 19:05:16  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 19:05:16  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 19:05:16  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 19:05:18  INFO [pages.LoginPage] : was clicked
+2018-16-12 19:05:19  INFO [libs.ActionsWithOurElements] : Element was clicked
+2018-16-12 19:07:19  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 19:07:19  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 19:07:19  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 19:07:20  INFO [pages.LoginPage] : was clicked
+2018-16-12 19:07:21  INFO [libs.ActionsWithOurElements] : Element was clicked
+2018-16-12 19:07:21  INFO [libs.ActionsWithOurElements] : Oleh Lwas inputted into input
+2018-16-12 19:07:22  INFO [pages.HomePage] : was clicked
+2018-16-12 19:22:03  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 19:22:03  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 19:22:04  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 19:22:04  INFO [pages.LoginPage] : was clicked
+2018-16-12 19:22:05  INFO [libs.ActionsWithOurElements] : Element was clicked
+2018-16-12 19:22:05  INFO [libs.ActionsWithOurElements] : Oleh Lwas inputted into input
+2018-16-12 19:22:06  INFO [pages.HomePage] : was clicked
+2018-16-12 19:44:15  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 19:44:15  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 19:44:15  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 19:44:16  INFO [pages.LoginPage] : was clicked
+2018-16-12 19:44:18  INFO [libs.ActionsWithOurElements] : Element was clicked
+2018-16-12 19:44:19  INFO [pages.HomePage] : was clicked
+2018-16-12 19:44:55  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 19:44:55  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 19:44:55  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 19:44:56  INFO [pages.LoginPage] : was clicked
+2018-16-12 19:44:57  INFO [libs.ActionsWithOurElements] : Element was clicked
+2018-16-12 19:44:58  INFO [pages.HomePage] : was clicked
+2018-16-12 19:45:00  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 19:45:00  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 19:45:01  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 19:45:02  INFO [pages.LoginPage] : was clicked
+2018-16-12 19:45:02  INFO [libs.ActionsWithOurElements] : Element was clicked
+2018-16-12 19:45:02  INFO [libs.ActionsWithOurElements] : Oleh Lwas inputted into input
+2018-16-12 19:45:03  INFO [pages.HomePage] : was clicked
+2018-16-12 19:46:08  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 19:46:08  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 19:46:08  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 19:46:10  INFO [pages.LoginPage] : was clicked
+2018-16-12 19:46:10  INFO [libs.ActionsWithOurElements] : Element was clicked
+2018-16-12 19:46:10  INFO [libs.ActionsWithOurElements] : Oleh Lwas inputted into input
+2018-16-12 19:46:11  INFO [pages.HomePage] : was clicked
+2018-16-12 19:46:36  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 19:46:37  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 19:46:37  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 19:46:38  INFO [pages.LoginPage] : was clicked
+2018-16-12 19:46:39  INFO [libs.ActionsWithOurElements] : Element was clicked
+2018-16-12 19:46:40  INFO [pages.HomePage] : was clicked
+2018-16-12 20:00:51  INFO [pages.LoginPage] : Login page was opened
+2018-16-12 20:00:52  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input
+2018-16-12 20:00:52  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input
+2018-16-12 20:00:53  INFO [pages.LoginPage] : was clicked
+2018-16-12 20:00:54  INFO [libs.ActionsWithOurElements] : Element was clicked
+2018-16-12 20:00:55  INFO [pages.HomePage] : was clicked
+2018-16-12 20:50:18  ERROR [libs.ActionsWithOurElements] : Cannot work with elementorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"top_search_input"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'olehs-MacBook-Air.local', ip: 'fe80:0:0:0:47:b819:993e:7f09%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/_8/9f1vs9p97sl...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:56005}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 71.0.3578.98, webStorageEnabled: true}
+Session ID: 1c28128be5a815a36442ea9f937ba027
+*** Element info: {Using=id, value=top_search_input}
+2018-18-12 14:11:49  INFO [pages.MainPage] : Main page was opened
+2018-18-12 14:11:50  INFO [libs.ActionsWithOurElements] : appleswas inputted into input
+2018-18-12 14:11:55  ERROR [pages.MainPage] : Cannot find such a button
+2018-18-12 14:17:07  INFO [pages.MainPage] : Main page was opened
+2018-18-12 14:17:07  INFO [libs.ActionsWithOurElements] : appleswas inputted into input
+2018-18-12 14:17:08  INFO [pages.MainPage] : was clicked
+2018-18-12 14:35:04  INFO [pages.MainPage] : Main page was opened
+2018-18-12 14:35:04  INFO [libs.ActionsWithOurElements] : appleswas inputted into input
+2018-18-12 14:35:04  INFO [pages.MainPage] : was clicked
+2018-18-12 16:43:26  INFO [pages.MainPage] : Main page was opened
+2018-18-12 16:43:26  INFO [libs.ActionsWithOurElements] : appleswas inputted into input
+2018-18-12 16:43:26  INFO [pages.MainPage] : was clicked
+2018-18-12 16:48:45  INFO [pages.MainPage] : Main page was opened
+2018-18-12 16:48:45  INFO [libs.ActionsWithOurElements] : appleswas inputted into input 
+2018-18-12 16:48:45  INFO [pages.MainPage] : was clicked
+2018-18-12 16:48:50  ERROR [libs.ActionsWithOurElements] : Element is not displayed org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="js-b-wrapper"]/div[1]/div/div/main/aside/section[2]/div/div[1]/a"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'olehs-MacBook-Air.local', ip: 'fe80:0:0:0:18ab:602b:3d87:c6b6%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/_8/9f1vs9p97sl...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62556}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 71.0.3578.98, webStorageEnabled: true}
+Session ID: 4b8ed4cb3f53c6b1f9583031c7a19f86
+*** Element info: {Using=xpath, value=//*[@id="js-b-wrapper"]/div[1]/div/div/main/aside/section[2]/div/div[1]/a}
+2018-18-12 16:54:16  INFO [pages.MainPage] : Main page was opened
+2018-18-12 16:54:17  INFO [libs.ActionsWithOurElements] : appleswas inputted into input 
+2018-18-12 16:54:17  INFO [pages.MainPage] : was clicked
+2018-18-12 16:54:22  ERROR [libs.ActionsWithOurElements] : Element is not displayed org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="js-b-wrapper"]/div[1]/div/div/main/aside/section[2]/div/div[1]/a"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'olehs-MacBook-Air.local', ip: 'fe80:0:0:0:18ab:602b:3d87:c6b6%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/_8/9f1vs9p97sl...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62768}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 71.0.3578.98, webStorageEnabled: true}
+Session ID: 69d70699c9e8c0bda2706823e5d05618
+*** Element info: {Using=xpath, value=//*[@id="js-b-wrapper"]/div[1]/div/div/main/aside/section[2]/div/div[1]/a}
+2018-18-12 16:59:07  INFO [pages.MainPage] : Main page was opened
+2018-18-12 16:59:08  INFO [libs.ActionsWithOurElements] : appleswas inputted into input 
+2018-18-12 16:59:08  INFO [pages.MainPage] : was clicked
+2018-18-12 16:59:13  ERROR [libs.ActionsWithOurElements] : Element is not displayed org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="js-b-wrapper"]/div[1]/div/div/main/aside/section[2]/div/div[1]/a"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'olehs-MacBook-Air.local', ip: 'fe80:0:0:0:18ab:602b:3d87:c6b6%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/_8/9f1vs9p97sl...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62972}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 71.0.3578.98, webStorageEnabled: true}
+Session ID: 4224ce0c8883dc00751a12caffb757fb
+*** Element info: {Using=xpath, value=//*[@id="js-b-wrapper"]/div[1]/div/div/main/aside/section[2]/div/div[1]/a}
+2018-18-12 16:59:58  INFO [pages.LoginPage] : Login page was opened
+2018-18-12 16:59:58  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input 
+2018-18-12 16:59:58  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input 
+2018-18-12 16:59:59  INFO [pages.LoginPage] : was clicked
+2018-18-12 17:00:00  INFO [libs.ActionsWithOurElements] : Element was clicked 
+2018-18-12 17:00:01  INFO [pages.HomePage] : was clicked
+2018-18-12 17:00:06  INFO [pages.LoginPage] : Login page was opened
+2018-18-12 17:00:06  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input 
+2018-18-12 17:00:06  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input 
+2018-18-12 17:00:07  INFO [pages.LoginPage] : was clicked
+2018-18-12 17:00:08  INFO [libs.ActionsWithOurElements] : Element was clicked 
+2018-18-12 17:00:08  INFO [libs.ActionsWithOurElements] : Oleh Lwas inputted into input 
+2018-18-12 17:00:09  INFO [pages.HomePage] : was clicked
+2018-18-12 17:00:56  INFO [pages.LoginPage] : Login page was opened
+2018-18-12 17:00:56  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input 
+2018-18-12 17:00:56  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input 
+2018-18-12 17:00:57  INFO [pages.LoginPage] : was clicked
+2018-18-12 17:00:58  INFO [libs.ActionsWithOurElements] : Element was clicked 
+2018-18-12 17:00:59  INFO [pages.HomePage] : was clicked
+2018-18-12 17:01:04  INFO [pages.LoginPage] : Login page was opened
+2018-18-12 17:01:04  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input 
+2018-18-12 17:01:04  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input 
+2018-18-12 17:01:05  INFO [pages.LoginPage] : was clicked
+2018-18-12 17:01:06  INFO [libs.ActionsWithOurElements] : Element was clicked 
+2018-18-12 17:01:06  INFO [libs.ActionsWithOurElements] : Oleh Lwas inputted into input 
+2018-18-12 17:01:07  INFO [pages.HomePage] : was clicked
+2018-18-12 17:01:53  INFO [pages.LoginPage] : Login page was opened
+2018-18-12 17:01:53  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input 
+2018-18-12 17:01:53  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input 
+2018-18-12 17:01:55  INFO [pages.LoginPage] : was clicked
+2018-18-12 17:01:59  INFO [pages.LoginPage] : Login page was opened
+2018-18-12 17:02:00  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input 
+2018-18-12 17:02:00  INFO [libs.ActionsWithOurElements] : QALight2015was inputted into input 
+2018-18-12 17:02:00  INFO [pages.LoginPage] : was clicked
+2018-18-12 17:02:05  ERROR [libs.ActionsWithOurElements] : Element is not displayed org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div[2]/div[1]/div/h2"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'olehs-MacBook-Air.local', ip: 'fe80:0:0:0:18ab:602b:3d87:c6b6%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/_8/9f1vs9p97sl...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63358}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 71.0.3578.98, webStorageEnabled: true}
+Session ID: 1ef9160e77774cc4270538273f08e6ae
+*** Element info: {Using=xpath, value=/html/body/div[3]/div[2]/div[1]/div/h2}
+2018-18-12 17:14:51  INFO [pages.LoginPage] : Login page was opened
+2018-18-12 17:14:51  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input 
+2018-18-12 17:14:51  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input 
+2018-18-12 17:14:52  INFO [pages.LoginPage] : was clicked
+2018-18-12 17:14:53  INFO [libs.ActionsWithOurElements] : Element was clicked 
+2018-18-12 17:14:54  INFO [pages.HomePage] : was clicked
+2018-18-12 17:14:58  INFO [pages.LoginPage] : Login page was opened
+2018-18-12 17:14:59  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input 
+2018-18-12 17:14:59  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input 
+2018-18-12 17:15:00  INFO [pages.LoginPage] : was clicked
+2018-18-12 17:15:01  INFO [libs.ActionsWithOurElements] : Element was clicked 
+2018-18-12 17:15:01  INFO [libs.ActionsWithOurElements] : Oleh Lwas inputted into input 
+2018-18-12 17:15:02  INFO [pages.HomePage] : was clicked
+2018-18-12 19:04:08  INFO [pages.MainPage] : Main page was opened
+2018-18-12 19:04:09  INFO [libs.ActionsWithOurElements] : appleswas inputted into input 
+2018-18-12 19:04:09  INFO [pages.MainPage] : was clicked
+2018-18-12 19:04:14  ERROR [libs.ActionsWithOurElements] : Element is not displayed org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="js-b-wrapper"]/div[1]/div/div/main/aside/section[2]/div/div[1]/a"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'olehs-MacBook-Air.local', ip: 'fe80:0:0:0:18ab:602b:3d87:c6b6%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/_8/9f1vs9p97sl...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:65339}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 71.0.3578.98, webStorageEnabled: true}
+Session ID: aace2e9481c3479a27684705937f880f
+*** Element info: {Using=xpath, value=//*[@id="js-b-wrapper"]/div[1]/div/div/main/aside/section[2]/div/div[1]/a}
+2018-18-12 19:54:46  INFO [pages.LoginPage] : Login page was opened
+2018-18-12 19:54:46  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input 
+2018-18-12 19:54:47  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input 
+2018-18-12 19:54:48  INFO [pages.LoginPage] : was clicked
+2018-18-12 19:54:52  INFO [pages.LoginPage] : Login page was opened
+2018-18-12 19:54:52  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input 
+2018-18-12 19:54:53  INFO [libs.ActionsWithOurElements] : QALight2015was inputted into input 
+2018-18-12 19:54:53  INFO [pages.LoginPage] : was clicked
+2018-18-12 19:54:58  ERROR [libs.ActionsWithOurElements] : Element is not displayed org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div[2]/div[1]/div/h2"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'olehs-MacBook-Air.local', ip: 'fe80:0:0:0:18ab:602b:3d87:c6b6%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/_8/9f1vs9p97sl...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:52745}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 71.0.3578.98, webStorageEnabled: true}
+Session ID: a7dbd22eec4897855b6fb9526d0a1cf1
+*** Element info: {Using=xpath, value=/html/body/div[3]/div[2]/div[1]/div/h2}
+2018-18-12 20:26:00  INFO [pages.LoginPage] : Login page was opened
+2018-18-12 20:26:01  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input 
+2018-18-12 20:26:01  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input 
+2018-18-12 20:26:02  INFO [pages.LoginPage] : was clicked
+2018-18-12 20:26:07  INFO [pages.LoginPage] : Login page was opened
+2018-18-12 20:26:07  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input 
+2018-18-12 20:26:07  INFO [libs.ActionsWithOurElements] : QALight2015was inputted into input 
+2018-18-12 20:26:07  INFO [pages.LoginPage] : was clicked
+2018-18-12 20:26:13  ERROR [libs.ActionsWithOurElements] : Element is not displayed org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div[2]/div[1]/div/h2"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'olehs-MacBook-Air.local', ip: 'fe80:0:0:0:18ab:602b:3d87:c6b6%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/_8/9f1vs9p97sl...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:51436}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 71.0.3578.98, webStorageEnabled: true}
+Session ID: b4b33d0b66223245ccbf26d3c23f2c03
+*** Element info: {Using=xpath, value=/html/body/div[3]/div[2]/div[1]/div/h2}
+2018-18-12 20:29:41  INFO [pages.MainPage] : Main page was opened
+2018-18-12 20:33:39  INFO [pages.MainPage] : Main page was opened
+2018-18-12 20:33:40  INFO [libs.ActionsWithOurElements] : appleswas inputted into input 
+2018-18-12 20:33:40  INFO [pages.MainPage] : was clicked
+2018-18-12 20:33:45  ERROR [libs.ActionsWithOurElements] : Element is not displayed org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="js-b-wrapper"]/div[1]/div/div/main/aside/section[2]/div/div[1]/a"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'olehs-MacBook-Air.local', ip: 'fe80:0:0:0:18ab:602b:3d87:c6b6%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/_8/9f1vs9p97sl...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:54196}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 71.0.3578.98, webStorageEnabled: true}
+Session ID: bd0885c96c87319d7659884a1aec51de
+*** Element info: {Using=xpath, value=//*[@id="js-b-wrapper"]/div[1]/div/div/main/aside/section[2]/div/div[1]/a}
+2018-19-12 14:06:33  INFO [pages.LoginPage] : Login page was opened
+2018-19-12 14:06:34  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input 
+2018-19-12 14:06:34  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input 
+2018-19-12 14:06:35  INFO [pages.LoginPage] : was clicked
+2018-19-12 14:11:49  INFO [pages.LoginPage] : Login page was opened
+2018-19-12 14:11:49  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input 
+2018-19-12 14:11:49  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input 
+2018-19-12 14:11:50  INFO [pages.LoginPage] : was clicked
+2018-19-12 14:14:48  INFO [pages.LoginPage] : Login page was opened
+2018-19-12 14:14:48  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input 
+2018-19-12 14:14:48  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input 
+2018-19-12 14:14:49  INFO [pages.LoginPage] : was clicked
+2018-19-12 14:18:03  INFO [pages.LoginPage] : Login page was opened
+2018-19-12 14:18:03  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input 
+2018-19-12 14:18:04  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input 
+2018-19-12 14:18:05  INFO [pages.LoginPage] : was clicked
+2018-19-12 14:19:39  INFO [pages.LoginPage] : Login page was opened
+2018-19-12 14:19:39  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input 
+2018-19-12 14:19:40  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input 
+2018-19-12 14:19:43  INFO [pages.LoginPage] : was clicked
+2018-19-12 14:22:03  INFO [pages.LoginPage] : Login page was opened
+2018-19-12 14:22:03  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input 
+2018-19-12 14:22:03  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input 
+2018-19-12 14:22:04  INFO [pages.LoginPage] : was clicked
+2018-19-12 15:48:57  INFO [pages.LoginPage] : Login page was opened
+2018-19-12 15:48:58  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input 
+2018-19-12 15:48:58  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input 
+2018-19-12 15:48:59  INFO [pages.LoginPage] : was clicked
+2018-19-12 15:49:00  INFO [libs.ActionsWithOurElements] : Element was clicked 
+2018-19-12 15:49:00  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input 
+2018-19-12 15:49:00  INFO [libs.ActionsWithOurElements] : 1234567890was inputted into input 
+2018-19-12 15:49:00  INFO [libs.ActionsWithOurElements] : 1234567890was inputted into input 
+2018-19-12 15:49:01  INFO [pages.HomePage] : was clicked
+2018-19-12 15:49:34  INFO [pages.LoginPage] : Login page was opened
+2018-19-12 15:49:35  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input 
+2018-19-12 15:49:35  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input 
+2018-19-12 15:49:36  INFO [pages.LoginPage] : was clicked
+2018-19-12 15:49:41  ERROR [libs.ActionsWithOurElements] : Element is not displayed org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div[2]/div[1]/div/h2"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'olehs-MacBook-Air.local', ip: 'fe80:0:0:0:18ab:602b:3d87:c6b6%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/_8/9f1vs9p97sl...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:55704}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 71.0.3578.98, webStorageEnabled: true}
+Session ID: 23083130f6cdf9918b215689cb861cc1
+*** Element info: {Using=xpath, value=/html/body/div[3]/div[2]/div[1]/div/h2}
+2018-19-12 15:49:41  ERROR [libs.ActionsWithOurElements] : Cannot work with element java.lang.NullPointerException
+2018-19-12 15:50:31  INFO [pages.LoginPage] : Login page was opened
+2018-19-12 15:50:31  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input 
+2018-19-12 15:50:31  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input 
+2018-19-12 15:50:32  INFO [pages.LoginPage] : was clicked
+2018-19-12 15:50:33  INFO [libs.ActionsWithOurElements] : Element was clicked 
+2018-19-12 15:50:33  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input 
+2018-19-12 15:50:33  INFO [libs.ActionsWithOurElements] : 1234567890was inputted into input 
+2018-19-12 15:50:33  INFO [libs.ActionsWithOurElements] : 1234567890was inputted into input 
+2018-19-12 15:50:34  INFO [pages.HomePage] : was clicked
+2018-19-12 15:51:43  INFO [pages.LoginPage] : Login page was opened
+2018-19-12 15:51:43  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input 
+2018-19-12 15:51:43  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input 
+2018-19-12 15:51:44  INFO [pages.LoginPage] : was clicked
+2018-19-12 15:51:49  ERROR [libs.ActionsWithOurElements] : Element is not displayed java.lang.NullPointerException
+2018-19-12 15:51:54  ERROR [libs.ActionsWithOurElements] : Cannot work with element org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'olehs-MacBook-Air.local', ip: 'fe80:0:0:0:18ab:602b:3d87:c6b6%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/_8/9f1vs9p97sl...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:56426}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 71.0.3578.98, webStorageEnabled: true}
+Session ID: 60062284393e47c71f898d125d3e8b40
+*** Element info: {Using=xpath, value=/html/body/div[3]/div[1]/div[1]/nav/section[1]/ul/li[2]/a}
+2018-19-12 16:11:51  INFO [pages.MainPage] : Main page was opened
+2018-19-12 16:11:51  INFO [libs.ActionsWithOurElements] : appleswas inputted into input 
+2018-19-12 16:11:51  INFO [pages.MainPage] : was clicked
+2018-19-12 16:12:28  INFO [pages.MainPage] : Main page was opened
+2018-19-12 16:12:29  INFO [libs.ActionsWithOurElements] : appleswas inputted into input 
+2018-19-12 16:12:29  INFO [pages.MainPage] : was clicked
+2018-19-12 16:12:47  INFO [pages.MainPage] : Main page was opened
+2018-19-12 16:12:47  INFO [libs.ActionsWithOurElements] : appleswas inputted into input 
+2018-19-12 16:12:47  INFO [pages.MainPage] : was clicked
+2018-19-12 16:14:50  INFO [pages.MainPage] : Main page was opened
+2018-19-12 16:14:50  INFO [libs.ActionsWithOurElements] : appleswas inputted into input 
+2018-19-12 16:14:50  INFO [pages.MainPage] : was clicked
+2018-19-12 19:34:14  INFO [pages.LoginPage] : Login page was opened
+2018-19-12 19:34:15  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input 
+2018-19-12 19:34:15  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input 
+2018-19-12 19:34:16  INFO [pages.LoginPage] : was clicked
+2018-19-12 19:34:16  INFO [libs.ActionsWithOurElements] : Element was clicked 
+2018-19-12 19:34:17  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input 
+2018-19-12 19:34:17  INFO [libs.ActionsWithOurElements] : 1234567890was inputted into input 
+2018-19-12 19:34:17  INFO [libs.ActionsWithOurElements] : 1234567890was inputted into input 
+2018-19-12 19:34:18  INFO [pages.HomePage] : was clicked
+2018-19-12 19:36:23  INFO [pages.MainPage] : Main page was opened
+2018-19-12 19:36:23  INFO [libs.ActionsWithOurElements] : appleswas inputted into input 
+2018-19-12 19:36:23  INFO [pages.MainPage] : was clicked
+2018-19-12 20:36:26  INFO [pages.LoginPage] : Login page was opened
+2018-19-12 20:36:26  INFO [libs.ActionsWithOurElements] : olehlishchuk@gmail.comwas inputted into input 
+2018-19-12 20:36:26  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input 
+2018-19-12 20:36:27  INFO [pages.LoginPage] : was clicked
+2018-19-12 20:36:28  INFO [libs.ActionsWithOurElements] : Element was clicked 
+2018-19-12 20:36:28  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input 
+2018-19-12 20:36:28  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input 
+2018-19-12 20:36:28  INFO [libs.ActionsWithOurElements] : QALight2013was inputted into input 
+2018-19-12 20:36:29  INFO [pages.HomePage] : was clicked
+2018-19-12 20:39:53  INFO [pages.MainPage] : Main page was opened
+2018-19-12 20:39:54  INFO [libs.ActionsWithOurElements] : appleswas inputted into input 
+2018-19-12 20:39:54  INFO [pages.MainPage] : was clicked
+2018-19-12 20:40:42  INFO [pages.MainPage] : Main page was opened
+2018-19-12 20:40:42  INFO [libs.ActionsWithOurElements] : appleswas inputted into input 
+2018-19-12 20:40:42  INFO [pages.MainPage] : was clicked

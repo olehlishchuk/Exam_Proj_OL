@@ -1,0 +1,99 @@
+1) Logging in to All Biz web site:
+
+Preconditions:
+1. Open browser
+2. Go to https://all.biz
+
+STR:
+1. Find Login button
+2. Click Login button
+3. Find and  clear "E-mail" field
+4. In "E-mail" field enter olehlishchuk@gmail.com
+5. Find and clear "Пароль" field
+6. In "Пароль" field enter QALight2013
+7. Find and click "Войти" button
+
+Exp. res.:
+All Biz logo is displayed in the left top corner
+
+Post conditions:
+1. Log out
+2. Close browser
+
+
+
+2) Logging out of All Biz web site:
+
+Preconditions:
+1. Open all.biz web site
+2. Log in by valid credentials(login: olehlishchuk@gmail.com, password: QALight2013)
+3.Make sure All Biz logo is displayed in the left top corner
+
+STR:
+1. Find user's profile in the right top corner and click
+2. Click "Logout" button
+
+Exp. res.:
+The Login page is displayed
+
+Post condition:
+Close browser
+
+
+3) Changing of interface language
+
+Preconditions:
+1. Open all.biz web site
+2. Log in by valid credentials(login: olehlishchuk@gmail.com, password: QALight2013)
+
+STR:
+1. Find user's profile in the right top corner and click on it
+2. In a Dropdown list click "My profile"
+3. Make sure user's profile has opened
+4. Click on user's profile and then click "interface language" from a dropdown list
+5. Make sure Editing page has opened
+6. Find Interface language field, click on it
+7. From a dropdown list choose Deutsch
+8. Click "Save" button
+9. Make sure the language has been shacged to German by finding "Editieren" word in editing profile
+
+Exp. res.:
+An interface language has been successfully changed
+
+Post conditions:
+1. Change interface language back to English
+2. Log out
+3. Close browser
+
+
+4) Searching for products on All Biz web site
+
+STR:
+1. Open all.biz web site
+2.In "search products" field insert any product (E.g.: apples)
+3. Click "Search" button
+4. Make sure a list of products has been displayed by finding "Apples AllBiz" words
+
+Exp. res.:
+A list of apple sellers has been displayed
+
+
+
+5) Verifying of sending message to supplier
+
+Preconditions:
+1. Open all.biz web site
+2. Log in by valid credentials(login: olehlishchuk@gmail.com, password: QALight2013)
+3.In "search products" field insert any product (E.g.: apples)
+4. Click "Search" button
+
+STR:
+1. Choose any supplier from the opened list (E.g.: Apples for export )
+2. Click "Contact supplier" button
+3. In "Message" field type any text of more than 20 characters (E.g.: "The best ukrainian apples of all kinds for competitive prices with export to all countries")
+4. Click "Send" button
+5. Make sure "Thank you. An announcement is sent" notification has appeared
+
+Exp. res.:
+A message to the selected supplier has been successfully sent
+
